@@ -1,5 +1,5 @@
 # LjSpider
-重庆链家二手房爬取
+重庆链家二手房爬取\n
 使用了scrapy框架爬取
 需安装scrapy
 pip install scrapy
